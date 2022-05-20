@@ -1,1 +1,3 @@
-print('yao welcome to python bruv');
+string = "this is a string man"
+
+print('string')
